@@ -1,0 +1,7 @@
+tweepy
+pandas 
+nltk 
+gensim 
+wordcloud 
+plotly 
+dash
