@@ -14,10 +14,16 @@ Data Cleaning:Preprocess and clean the collected text data.
 Topic Modeling:Apply LDA to identify 10-15 topics.
 Visualization:Generate a word cloud based on the topic-term strength.Display related tweets when a word in the word cloud is clicked.
 
-**Usage**
+ 
+ **Project setup**
 
+**Clone the repository**:
+   
+    
+    git clone https://github.com/yashpanditdev/Topic-Modeling-Using-Twitter-and-LDA.git
 
-**Clone the repository**
+**Install the dependencies**
 
-git clone https://github.com/yourusername/Topic-Modeling-Using-Twitter-and-LDA.git
-cd Topic-Modeling-Using-Twitter-and-LDA
+    pip install -r requirements.txt
+     
+
